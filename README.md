@@ -6,4 +6,5 @@ Used Technologies:
 2. Firebase Auth
 3. Firebase Firestore
 4. MVVM
+5. Recycler View
 
